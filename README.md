@@ -40,7 +40,7 @@ Pokemon é um projeto com o objetivo de aplicar e consolidar os conhecimentos ad
 ## 🎨 Layout
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![image](https://github.com/anapicoli/api-pokemon)
+![image](https://github.com/user-attachments/assets/cd488b8f-1518-4bca-b4d3-7842ac100740)
 
 <!-- ---------------------------------------------------------------------- -->
 
